@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReactVideoPlayer
 
 ### Getting Started
 
@@ -9,7 +9,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone
-> cd ReduxSimpleStarter
+> cd ReactVideoPlayer
 > npm install
 > npm start
 ```
