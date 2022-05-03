@@ -12,4 +12,4 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
-you can checkout deployed videoplayer by visiting this site --> https://fast-youtube.netlify.app/
+you can checkout deployed videoplayer demo by visiting this site --> https://fast-youtube.netlify.app/
