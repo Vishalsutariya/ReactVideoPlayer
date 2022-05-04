@@ -10,7 +10,7 @@
     "test:watch": "npm run test -- --watch",
     "build": "webpack -p --define process.env.NODE_ENV='\"production\"' --progress --colors"
   },
-  "author": "",
+  "author": "vishalsutariya12898@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
