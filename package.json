@@ -1,7 +1,7 @@
 {
   "name": "react-video-player",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "Video Streaming platform using YouTube APIs",
   "main": "index.js",
   "repository": "https://github.com/Vishalsutariya/ReduxStarter.git",
   "scripts": {
